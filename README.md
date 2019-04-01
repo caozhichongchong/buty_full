@@ -1,5 +1,6 @@
 # buty_full
 ## Introduction
+MOVED TO buty_phyl https://github.com/caozhichongchong/buty_phyl
 * buty_full infers traits by 16S
 * input: otu table (-t) and otu sequences (-s)
 * requirement: mafft
